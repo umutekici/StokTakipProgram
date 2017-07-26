@@ -1,0 +1,13 @@
+c:\users\umut_\documents\visual studio 2015\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+c:\users\umut_\documents\visual studio 2015\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+c:\users\umut_\documents\visual studio 2015\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+c:\users\umut_\documents\visual studio 2015\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.csprojResolveAssemblyReference.cache
+c:\users\umut_\documents\visual studio 2015\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.resources
+c:\users\umut_\documents\visual studio 2015\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+c:\users\umut_\documents\visual studio 2015\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.Cache
+c:\users\umut_\documents\visual studio 2015\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+c:\users\umut_\documents\visual studio 2015\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+c:\users\umut_\documents\visual studio 2015\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.satis.resources
+c:\users\umut_\documents\visual studio 2015\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.giris.resources
+c:\users\umut_\documents\visual studio 2015\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.stokCheck.resources
+c:\users\umut_\documents\visual studio 2015\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.user.resources
